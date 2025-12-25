@@ -62,4 +62,3 @@ The system consists of the following modules:
 
 ---
 
-## 🗂️ Project Structure
