@@ -61,4 +61,140 @@ The system consists of the following modules:
 - Curriculum alignment scores
 
 ---
+# Project Phases
+
+## Phase 1: Data Ingestion & PDF Preprocessing
+
+**Objective**  
+Convert unstructured industry job descriptions and university handbook PDFs into clean, machine-readable text.
+
+**Key Tasks**
+- Parse job description PDFs and university handbook PDFs  
+- Extract text from all pages  
+- Perform text normalization and basic cleaning  
+- Store processed text in a structured format  
+
+**Output**
+- Cleaned textual data stored as structured JSON  
+
+---
+
+## Phase 2: Skill & Topic Extraction
+
+**Objective**  
+Identify and extract relevant skills, technologies, and academic topics from industry and university texts.
+
+**Key Tasks**
+- Extract technical skills and tools from industry job descriptions  
+- Extract subjects, topics, and technologies from university syllabi  
+- Normalize terminology across industry and academia  
+- Organize extracted items into structured lists  
+
+**Output**
+- Structured lists of industry skills and academic topics  
+
+---
+
+## Phase 3: Skill Gap Analysis
+
+**Objective**  
+Analyze and quantify the mismatch between industry-required skills and university-taught topics.
+
+**Key Tasks**
+- Compare industry skills with academic curriculum content  
+- Identify missing, outdated, and underrepresented skills  
+- Measure the extent and severity of curriculum gaps  
+
+**Output**
+- Skill gap matrix highlighting alignment and misalignment  
+
+---
+
+## Phase 4: Industry Trend Analysis
+
+**Objective**  
+Identify evolving technology trends and changing skill demands in the industry.
+
+**Key Tasks**
+- Analyze frequency and relevance of skills in job descriptions  
+- Track emerging and declining technologies  
+- Study temporal changes in industry demand  
+
+**Output**
+- Trend-based ranking of industry-relevant skills and technologies  
+
+---
+
+## Phase 5: Visualization & Insights Dashboard
+
+**Objective**  
+Present analytical insights in an interpretable and decision-friendly manner.
+
+**Key Tasks**
+- Visualize skill gaps and demand distributions  
+- Create comparative views of industry vs academia  
+- Design dashboards for academic and administrative stakeholders  
+
+**Output**
+- Visual reports and interactive dashboards  
+
+---
+
+## Phase 6: Curriculum Recommendation Framework
+
+**Objective**  
+Recommend curriculum updates aligned with industry requirements.
+
+**Key Tasks**
+- Propose new topics and technologies to be included  
+- Map recommended topics to appropriate academic years  
+- Define learning objectives for each recommended topic  
+
+**Output**
+- High-level curriculum recommendation document  
+
+---
+
+## Phase 7: AI-Assisted Syllabus Generation
+
+**Objective**  
+Generate detailed syllabus content for approved curriculum updates.
+
+**Key Tasks**
+- Expand recommended topics into structured syllabus units  
+- Integrate textbooks, research papers, and industry practices  
+- Design theoretical and practical components  
+
+**Output**
+- Detailed syllabus drafts for academic review  
+
+---
+
+## Phase 8: Impact & Outcome Analysis
+
+**Objective**  
+Evaluate the effectiveness of curriculum alignment with industry needs.
+
+**Key Tasks**
+- Analyze potential impact on student employability  
+- Assess improvement in skill match for placements  
+- Compare outcomes before and after curriculum updates  
+
+**Output**
+- Impact analysis report highlighting expected benefits  
+
+---
+
+## Phase 9: Continuous Update & Monitoring System
+
+**Objective**  
+Enable continuous adaptation to evolving industry requirements.
+
+**Key Tasks**
+- Periodically ingest new job description data  
+- Update skill trends and gap analysis  
+- Trigger alerts for significant curriculum mismatches  
+
+**Output**
+- Continuously updated industry–academia alignment reports  
 
