@@ -1,0 +1,8 @@
+pandas
+numpy
+PyPDF2
+beautifulsoup4
+requests
+matplotlib
+plotly
+scikit-learn
