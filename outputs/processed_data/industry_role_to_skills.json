@@ -1,0 +1,133 @@
+{
+  "ai analytics": [
+    "Python Programming",
+    "SQL Querying",
+    "Machine Learning",
+    "Deep Learning",
+    "Statistical Modeling",
+    "MLOps",
+    "Big Data Processing"
+  ],
+  "ai consultant": [
+    "Python proficiency",
+    "Deep Learning",
+    "Generative AI",
+    "Cloud architecture",
+    "MLOps practices",
+    "Data engineering",
+    "Statistical modeling"
+  ],
+  "ai consulting": [
+    "Machine learning",
+    "Deep learning",
+    "Cloud computing",
+    "MLOps",
+    "Data engineering",
+    "Python programming",
+    "LLM fine-tuning"
+  ],
+  "analyst intern": [
+    "SQL",
+    "Microsoft Excel",
+    "Data Visualization",
+    "Python",
+    "Statistical Analysis",
+    "Data Cleaning",
+    "Power BI"
+  ],
+  "automation intern": [
+    "Python Programming",
+    "Git Version Control",
+    "Shell Scripting",
+    "Test Automation",
+    "API Testing",
+    "CI/CD Pipelines",
+    "SQL Queries"
+  ],
+  "aveva software developer": [
+    "C# .NET",
+    "C++",
+    "SQL Databases",
+    "AVEVA E3D/PDMS",
+    "PML Programming",
+    "Plant Data Modeling"
+  ],
+  "developer intern": [
+    "Core programming",
+    "Git version control",
+    "Data structures",
+    "Code debugging",
+    "SQL queries",
+    "Linux command line",
+    "API fundamentals"
+  ],
+  "developer intern aveva": [
+    "Programming language",
+    "Git version control",
+    "Data structures",
+    "SQL querying",
+    "Algorithms",
+    "Debugging",
+    "Unit testing"
+  ],
+  "devops intern": [
+    "Linux fundamentals",
+    "Shell scripting",
+    "Python scripting",
+    "Docker",
+    "Terraform",
+    "CI/CD pipelines",
+    "Cloud platforms"
+  ],
+  "digital intern": [
+    "Google Analytics",
+    "HTML/CSS",
+    "CMS Management",
+    "SEO Fundamentals",
+    "Adobe Photoshop",
+    "Data Entry",
+    "Spreadsheet Software"
+  ],
+  "engineering intern": [
+    "CAD modeling",
+    "Python programming",
+    "Git version control",
+    "Circuit analysis",
+    "Data analysis",
+    "Technical drawing"
+  ],
+  "intern trainee": [
+    "Python",
+    "SQL",
+    "Git",
+    "Data Structures",
+    "Command Line",
+    "Object-Oriented Programming"
+  ],
+  "ios intern": [
+    "Swift",
+    "UIKit",
+    "Xcode IDE",
+    "Git",
+    "SwiftUI",
+    "Design Patterns"
+  ],
+  "software developer": [
+    "Data Structures",
+    "Object-Oriented Design",
+    "Git Version Control",
+    "SQL/NoSQL Databases",
+    "System Design",
+    "Software Testing",
+    "Cloud Computing"
+  ],
+  "software developer intern": [
+    "Core Programming",
+    "Data Structures",
+    "Basic Algorithms",
+    "Git Version Control",
+    "SQL Database",
+    "Linux Command Line",
+    "Unit Testing"
+  ]
+}
