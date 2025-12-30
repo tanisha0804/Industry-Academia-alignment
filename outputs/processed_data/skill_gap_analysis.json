@@ -1,0 +1,122 @@
+{
+  "industry_skill_count": 41,
+  "university_skill_count": 18,
+  "coverage_percent": 34.15,
+  "covered_skills": [
+    "algorithms",
+    "big data",
+    "c++",
+    "cloud computing",
+    "data analysis",
+    "data cleaning",
+    "data mining",
+    "data science",
+    "java",
+    "mlops",
+    "python",
+    "sql",
+    "system design",
+    "unix"
+  ],
+  "missing_skills": [
+    "adobe photoshop",
+    "api testing",
+    "aveva e3dpdms",
+    "c# .net",
+    "cad modeling",
+    "cicd pipelines",
+    "circuit analysis",
+    "cms management",
+    "command line",
+    "data entry",
+    "data visualization",
+    "debugging",
+    "design patterns",
+    "docker",
+    "git",
+    "google analytics",
+    "htmlcss",
+    "llm finetuning",
+    "microsoft excel",
+    "plant data modeling",
+    "pml",
+    "power bi",
+    "seo fundamentals",
+    "swift",
+    "terraform",
+    "unit testing",
+    "xcode ide"
+  ],
+  "coverage_explanations": {
+    "data analysis": [
+      "semantic",
+      "data science",
+      0.6690000295639038
+    ],
+    "data mining": [
+      "direct",
+      "data mining",
+      1.0
+    ],
+    "big data": [
+      "direct",
+      "big data",
+      1.0
+    ],
+    "python": [
+      "direct",
+      "python",
+      1.0
+    ],
+    "java": [
+      "direct",
+      "java",
+      1.0
+    ],
+    "mlops": [
+      "direct",
+      "mlops",
+      1.0
+    ],
+    "unix": [
+      "direct",
+      "unix",
+      1.0
+    ],
+    "sql": [
+      "direct",
+      "sql",
+      1.0
+    ],
+    "cloud computing": [
+      "direct",
+      "cloud computing",
+      1.0
+    ],
+    "c++": [
+      "direct",
+      "c++",
+      1.0
+    ],
+    "system design": [
+      "direct",
+      "system design",
+      1.0
+    ],
+    "data cleaning": [
+      "direct",
+      "data cleaning",
+      1.0
+    ],
+    "algorithms": [
+      "direct",
+      "algorithms",
+      1.0
+    ],
+    "data science": [
+      "direct",
+      "data science",
+      1.0
+    ]
+  }
+}
