@@ -1,0 +1,137 @@
+[
+  {
+    "skill": "adobe photoshop",
+    "priority_score": 0.211,
+    "recommended_year": 2
+  },
+  {
+    "skill": "api testing",
+    "priority_score": 0.386,
+    "recommended_year": 3
+  },
+  {
+    "skill": "aveva e3dpdms",
+    "priority_score": 0.461,
+    "recommended_year": 4
+  },
+  {
+    "skill": "c# .net",
+    "priority_score": 0.457,
+    "recommended_year": 3
+  },
+  {
+    "skill": "cad modeling",
+    "priority_score": 0.385,
+    "recommended_year": 4
+  },
+  {
+    "skill": "cicd pipelines",
+    "priority_score": 0.281,
+    "recommended_year": 3
+  },
+  {
+    "skill": "circuit analysis",
+    "priority_score": 1.0,
+    "recommended_year": 3
+  },
+  {
+    "skill": "cms management",
+    "priority_score": 0.266,
+    "recommended_year": 2
+  },
+  {
+    "skill": "command line",
+    "priority_score": 0.135,
+    "recommended_year": 2
+  },
+  {
+    "skill": "data entry",
+    "priority_score": 0.429,
+    "recommended_year": 3
+  },
+  {
+    "skill": "data visualization",
+    "priority_score": 0.488,
+    "recommended_year": 2
+  },
+  {
+    "skill": "debugging",
+    "priority_score": 0.033,
+    "recommended_year": 3
+  },
+  {
+    "skill": "design patterns",
+    "priority_score": 0.565,
+    "recommended_year": 3
+  },
+  {
+    "skill": "docker",
+    "priority_score": 0.533,
+    "recommended_year": 3
+  },
+  {
+    "skill": "git",
+    "priority_score": 0.429,
+    "recommended_year": 3
+  },
+  {
+    "skill": "google analytics",
+    "priority_score": 0.627,
+    "recommended_year": 2
+  },
+  {
+    "skill": "htmlcss",
+    "priority_score": 0.422,
+    "recommended_year": 2
+  },
+  {
+    "skill": "llm finetuning",
+    "priority_score": 0.439,
+    "recommended_year": 4
+  },
+  {
+    "skill": "microsoft excel",
+    "priority_score": 0.229,
+    "recommended_year": 3
+  },
+  {
+    "skill": "plant data modeling",
+    "priority_score": 0.502,
+    "recommended_year": 4
+  },
+  {
+    "skill": "pml",
+    "priority_score": 0.841,
+    "recommended_year": 4
+  },
+  {
+    "skill": "power bi",
+    "priority_score": 0.908,
+    "recommended_year": 2
+  },
+  {
+    "skill": "seo fundamentals",
+    "priority_score": 0.291,
+    "recommended_year": 2
+  },
+  {
+    "skill": "swift",
+    "priority_score": 0.039,
+    "recommended_year": 3
+  },
+  {
+    "skill": "terraform",
+    "priority_score": 0.0,
+    "recommended_year": 4
+  },
+  {
+    "skill": "unit testing",
+    "priority_score": 0.605,
+    "recommended_year": 3
+  },
+  {
+    "skill": "xcode ide",
+    "priority_score": 0.441,
+    "recommended_year": 3
+  }
+]
