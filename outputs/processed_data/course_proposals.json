@@ -1,0 +1,239 @@
+[
+  {
+    "course_id": "C4",
+    "skills": [
+      {
+        "skill": "adobe photoshop",
+        "priority_score": 0.211,
+        "recommended_year": 2
+      },
+      {
+        "skill": "aveva e3dpdms",
+        "priority_score": 0.461,
+        "recommended_year": 4
+      },
+      {
+        "skill": "c# .net",
+        "priority_score": 0.457,
+        "recommended_year": 3
+      },
+      {
+        "skill": "cicd pipelines",
+        "priority_score": 0.281,
+        "recommended_year": 3
+      },
+      {
+        "skill": "cms management",
+        "priority_score": 0.266,
+        "recommended_year": 2
+      },
+      {
+        "skill": "command line",
+        "priority_score": 0.135,
+        "recommended_year": 2
+      },
+      {
+        "skill": "git",
+        "priority_score": 0.429,
+        "recommended_year": 3
+      },
+      {
+        "skill": "htmlcss",
+        "priority_score": 0.422,
+        "recommended_year": 2
+      },
+      {
+        "skill": "pml",
+        "priority_score": 0.841,
+        "recommended_year": 4
+      },
+      {
+        "skill": "power bi",
+        "priority_score": 0.908,
+        "recommended_year": 2
+      }
+    ],
+    "avg_priority": 0.441,
+    "target_year": 3,
+    "status": "Pending Approval",
+    "overview": {
+      "raw_text": "**Course Title:**\nDigital Engineering Informatics and Automation Workflow\n\n**Course Description:**\nThis course introduces advanced concepts in integrating specialized industrial design outputs with scalable enterprise data delivery systems. Students will learn to programmatically manage, extract, transform, and load complex engineering data from proprietary plant design environments into modern digital information platforms. Emphasis is placed on utilizing software development principles\u2014including version control, continuous integration, and object-oriented programming\u2014to automate design validation and workflow optimization. The curriculum prepares students to bridge the gap between detailed engineering modeling and accessible, dynamic data visualization for project management and operational reporting.\n\n**Course Objectives:**\n- To appraise the end-to-end data lifecycle of large-scale industrial projects, from initial CAD modeling through to database storage and digital deployment.\n- To acquire advanced scripting and programming competencies necessary for customizing industrial applications and developing efficient data extraction utilities.\n- To master modern software development practices, including version control, automated testing, and CI/CD methodologies, essential for robust engineering tool development.\n- To utilize data visualization tools and web technologies effectively to translate complex engineering metrics into intuitive, manageable, and secure digital reports and dashboards.\n\n**Course Outcomes:**\n- Students will be able to extract and structure configuration data and metadata from proprietary AVEVA E3DPDMS environments utilizing advanced Programmable Macro Language (PML) scripting.\n- Students will design and implement modular, database-driven engineering utility applications using the C# .NET framework and standard command-line interfaces for workflow automation.\n- Students will construct and manage a robust digital asset deployment pipeline utilizing Git, incorporating CI/CD methodologies for rapid application updates and content management system integration.\n- Students will synthesize data visualization reports using Power BI, applying front-end design principles (HTML/CSS) and graphic manipulation software (Adobe Photoshop) to enhance user interface and information delivery effectiveness.\n\n**Tools & Technologies:**\n* Adobe Photoshop\n* Aveva E3DPDMS\n* C# .NET Framework\n* Continuous Integration/Continuous Deployment (CI/CD) Tools\n* Content Management Systems (CMS)\n* Command Line Interfaces (CLI) / Shell Scripting\n* Git and Version Control Systems\n* HTML, CSS\n* Programmable Macro Language (PML)\n* Microsoft Power BI",
+      "generated_by": "gemini",
+      "input_skills": [
+        "adobe photoshop",
+        "aveva e3dpdms",
+        "c# .net",
+        "cicd pipelines",
+        "cms management",
+        "command line",
+        "git",
+        "htmlcss",
+        "pml",
+        "power bi"
+      ],
+      "target_year": 3
+    }
+  },
+  {
+    "course_id": "C1",
+    "skills": [
+      {
+        "skill": "api testing",
+        "priority_score": 0.386,
+        "recommended_year": 3
+      },
+      {
+        "skill": "circuit analysis",
+        "priority_score": 1.0,
+        "recommended_year": 3
+      },
+      {
+        "skill": "debugging",
+        "priority_score": 0.033,
+        "recommended_year": 3
+      },
+      {
+        "skill": "unit testing",
+        "priority_score": 0.605,
+        "recommended_year": 3
+      }
+    ],
+    "avg_priority": 0.506,
+    "target_year": 3,
+    "status": "Pending Approval",
+    "overview": {
+      "raw_text": "Course Title:\nSystem Verification and Diagnostic Engineering\n\nCourse Description:\nThis course introduces rigorous methodologies for validating complex electro-mechanical systems that integrate digital and analog circuits with controlling software architectures. It focuses on the systematic application of diagnostic techniques, emphasizing fault isolation, root cause analysis, and the implementation of robust verification protocols across hardware and software interfaces. Students will explore the critical synergy between established circuit analysis principles and modern software testing methodologies, specifically API and unit testing in embedded environments. The primary goal is to prepare students to design and maintain reliable, testable engineering systems essential for professional industrial deployment.\n\nCourse Objectives:\n- To introduce formal validation frameworks and systematic debugging processes applicable across diverse engineering disciplines.\n- To bridge theoretical circuit analysis fundamentals with practical fault injection and detection techniques in physical systems.\n- To establish proficiency in modern software verification methods, including API testing for communication layers and unit testing for critical embedded logic.\n- To provide hands-on experience utilizing industry-standard diagnostic instrumentation for system measurement and performance verification.\n\nCourse Outcomes:\n- Students will be able to *analyze* complex circuit behavior under various fault conditions (e.g., marginal power, transient signals) and *determine* appropriate isolation and repair techniques.\n- Students will be able to *implement* comprehensive unit tests using standard frameworks to ensure functional integrity and performance requirements of embedded C/C++ components.\n- Students will be able to *design* and execute functional and negative API tests to validate communication protocols and data exchange integrity across heterogeneous system layers.\n- Students will be able to *evaluate* overall system reliability by synthesizing results from hardware diagnostic reports and correlating them with software verification metrics.\n\nTools & Technologies:\n- Oscilloscopes, Logic Analyzers, Multimeters, and Digital Data Acquisition systems\n- JTAG/SWD Debugging Interfaces and Real-Time Operating System (RTOS) trace tools\n- SPICE Simulation tools (e.g., LTSpice or PSpice)\n- Embedded C/C++ Unit Testing Frameworks (e.g., GoogleTest, Unity, Catch2)\n- Python libraries for API/HTTP testing (e.g., Requests, PyTest)\n- Version Control Systems (Git) and Collaborative Debugging Platforms",
+      "generated_by": "gemini",
+      "input_skills": [
+        "api testing",
+        "circuit analysis",
+        "debugging",
+        "unit testing"
+      ],
+      "target_year": 3
+    }
+  },
+  {
+    "course_id": "C2",
+    "skills": [
+      {
+        "skill": "cad modeling",
+        "priority_score": 0.385,
+        "recommended_year": 4
+      },
+      {
+        "skill": "design patterns",
+        "priority_score": 0.565,
+        "recommended_year": 3
+      }
+    ],
+    "avg_priority": 0.475,
+    "target_year": 3,
+    "status": "Pending Approval",
+    "overview": {
+      "raw_text": "**Course Title:**\nParametric Design and Engineering Pattern Languages\n\n**Course Description:**\nThis advanced computational design course introduces junior engineering students to methodologies for creating highly adaptable, robust, and reusable mechanical systems. The curriculum emphasizes mastering complex parametric modeling techniques, feature-based design intent, and advanced associative functionality. Students will formally study and apply established engineering design patterns to structure assemblies, improve manufacturability, and manage complexity across large-scale projects. The course integrates principles of Product Data Management (PDM) to facilitate professional design collaboration and configuration control.\n\n***\n\n### Course Objectives:\n\n*   Master advanced geometric construction and multi-level parametric modeling within contemporary Computer-Aided Design (CAD) environments.\n*   Introduce and apply established engineering design patterns and abstraction principles to improve the robustness, scalability, and reusability of complex mechanical assemblies.\n*   Develop competence in structuring design data, managing component libraries, and implementing configuration control using professional Product Data Management (PDM) methodologies.\n*   Integrate manufacturability constraints and simulation preparation techniques (e.g., defeaturing, topology optimization preparation) as intrinsic components of the initial modeling process.\n\n***\n\n### Course Outcomes:\n\nUpon successful completion of this course, students will be able to:\n\n*   **Construct** fully constrained, adaptable 3D models utilizing complex surfacing, advanced feature dependency, and driven-dimension parametric architecture.\n*   **Implement** recognized engineering design pattern languages (e.g., facade, composite, adapter patterns) to effectively govern the organization and maintenance of large-scale engineering projects.\n*   **Analyze and evaluate** the parametric structure of existing CAD assemblies to identify weaknesses, redundancies, or violations of the initial design intent.\n*   **Develop** functional, scalable component libraries that are robustly integrated with PDM systems, suitable for collaborative, team-based product development workflows.\n\n***\n\n### Tools & Technologies:\n\n*   Professional-Grade Parametric CAD Software (e.g., SOLIDWORKS, Siemens NX, CATIA)\n*   Product Data Management (PDM) / Product Lifecycle Management (PLM) Software\n*   Advanced Feature-Based Modeling Tools (Surfacing, Multi-body parts, Weldments/Sheet Metal)\n*   Parametric Optimization and Design Automation Tools\n*   Version Control Systems for Engineering Data",
+      "generated_by": "gemini",
+      "input_skills": [
+        "cad modeling",
+        "design patterns"
+      ],
+      "target_year": 3
+    }
+  },
+  {
+    "course_id": "C0",
+    "skills": [
+      {
+        "skill": "data entry",
+        "priority_score": 0.429,
+        "recommended_year": 3
+      },
+      {
+        "skill": "data visualization",
+        "priority_score": 0.488,
+        "recommended_year": 2
+      },
+      {
+        "skill": "google analytics",
+        "priority_score": 0.627,
+        "recommended_year": 2
+      },
+      {
+        "skill": "microsoft excel",
+        "priority_score": 0.229,
+        "recommended_year": 3
+      },
+      {
+        "skill": "plant data modeling",
+        "priority_score": 0.502,
+        "recommended_year": 4
+      },
+      {
+        "skill": "seo fundamentals",
+        "priority_score": 0.291,
+        "recommended_year": 2
+      }
+    ],
+    "avg_priority": 0.428,
+    "target_year": 3,
+    "status": "rejected",
+    "overview": {
+      "raw_text": "**Course Title:**\nApplied Performance Informatics and Engineering Data Management\n\n**Course Description:**\nThis course introduces junior engineering students to the critical skills required for managing, analyzing, and visualizing operational and performance data in industrial and digital contexts. Students will explore structured data entry techniques and advanced computational methods necessary for building descriptive models of engineered systems. Emphasis is placed on developing robust data literacy for optimizing complex processes and communicating findings using industry-standard analytics tools. The curriculum integrates practical applications in plant data modeling with fundamental concepts of digital performance tracking and report dissemination.\n\n**Course Objectives:**\n- Introduce principles of structured data organization, ensuring data integrity, and optimizing data entry procedures for large engineering datasets.\n- Facilitate the creation and interpretation of data-driven, statistical models of operational systems using appropriate computational tools.\n- Establish proficiency in utilizing commercial analytics platforms to assess system performance, track user engagement with technical documentation, and identify performance anomalies.\n- Equip students to translate complex data insights into actionable engineering strategies and professionally visualized reports optimized for clear communication.\n\n**Course Outcomes:**\n- Analyze complex raw datasets originating from industrial environments using advanced spreadsheet functions and data manipulation techniques.\n- Develop and evaluate simplified descriptive models of plant operations based on collected performance metrics, predicting short-term operational fluctuations.\n- Synthesize comprehensive operational performance reports by integrating data extracted from proprietary systems with standard digital analytics platforms.\n- Apply fundamental concepts of search engine optimization (SEO) to enhance the accessibility, discoverability, and functional visibility of engineering documentation and system performance data reports.\n\n**Tools & Technologies:**\n*   Microsoft Excel (Advanced Data Management and Modeling)\n*   Google Analytics (GA4)\n*   Tableau or Microsoft Power BI (Data Visualization)\n*   Python (Pandas/NumPy for Plant Data Modeling)\n*   Structured Query Language (SQL) Fundamentals\n*   Basic HTML/Metadata Tagging (for SEO application)",
+      "generated_by": "gemini",
+      "input_skills": [
+        "data entry",
+        "data visualization",
+        "google analytics",
+        "microsoft excel",
+        "plant data modeling",
+        "seo fundamentals"
+      ],
+      "target_year": 3
+    }
+  },
+  {
+    "course_id": "C3",
+    "skills": [
+      {
+        "skill": "docker",
+        "priority_score": 0.533,
+        "recommended_year": 3
+      },
+      {
+        "skill": "llm finetuning",
+        "priority_score": 0.439,
+        "recommended_year": 4
+      },
+      {
+        "skill": "swift",
+        "priority_score": 0.039,
+        "recommended_year": 3
+      },
+      {
+        "skill": "terraform",
+        "priority_score": 0.0,
+        "recommended_year": 4
+      },
+      {
+        "skill": "xcode ide",
+        "priority_score": 0.441,
+        "recommended_year": 3
+      }
+    ],
+    "avg_priority": 0.29,
+    "target_year": 3,
+    "status": "Pending Approval",
+    "overview": {
+      "raw_text": "**Course Title:**\nApplied Intelligent Systems and Cloud-Native Deployment\n\n**Course Description:**\nThis third-year engineering course examines the complete development lifecycle of modern software, focusing on scalable infrastructure and embedded intelligence. Students will acquire comprehensive proficiency in robust containerization (Docker) and Infrastructure-as-Code (Terraform) principles to establish repeatable, version-controlled deployment environments. The curriculum emphasizes practical application development using the Swift language and the Xcode Integrated Development Environment for platform-specific solutions. A core component involves the theoretical understanding and practical execution of fine-tuning Large Language Models (LLMs) and deploying them seamlessly within these scalable, cloud-native architectures.\n\n---\n\n**Course Objectives:**\n*   To establish a foundational understanding of Infrastructure-as-Code (IaC) principles and the practical application of containerization technologies in continuous deployment pipelines.\n*   To equip students with the skills necessary to design, develop, and test platform-specific applications using modern IDEs and type-safe programming languages.\n*   To introduce the methodology and practical workflow required for customizing and optimizing Large Language Models (LLMs) for domain-specific tasks.\n*   To facilitate the integration of diverse technological components, including infrastructure orchestration, application development, and embedded AI services, into a cohesive, deployable system.\n\n---\n\n**Course Outcomes:**\n*   Students will be able to **design and deploy** complex, multi-container cloud infrastructure using industry-standard configurations defined by Terraform and Docker Compose.\n*   Students will be able to **develop and debug** sophisticated platform applications by leveraging the Swift language and mastering the advanced features of the Xcode Integrated Development Environment.\n*   Students will be able to **analyze and execute** the fine-tuning of a pre-trained Large Language Model (LLM) utilizing specialized datasets to achieve defined domain-specific intelligence outcomes.\n*   Students will be able to **evaluate and justify** the architectural choices required for integrating local or edge computing applications with scalable back-end services provisioned via IaC.\n\n---\n\n**Tools & Technologies:**\n*   Docker and Docker Compose\n*   Terraform (HashiCorp)\n*   Swift Programming Language\n*   Xcode Integrated Development Environment (IDE)\n*   Large Language Model (LLM) Fine-Tuning Frameworks (e.g., Hugging Face, PyTorch)\n*   Git and Continuous Integration/Continuous Deployment (CI/CD) Concepts\n*   Cloud Provider Services (API interaction focus)",
+      "generated_by": "gemini",
+      "input_skills": [
+        "docker",
+        "llm finetuning",
+        "swift",
+        "terraform",
+        "xcode ide"
+      ],
+      "target_year": 3
+    }
+  }
+]
